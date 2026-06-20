@@ -1,0 +1,15 @@
+# OS/editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local runtime output
+*.log
+*.tmp
+*.temp
+
+# Large generated media should stay in video projects, not this skill repo
+generated-frames/
+out/
+dist/
+node_modules/
